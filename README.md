@@ -1,16 +1,8 @@
-# home_task
+# Rent_Your_Home
 
-A new Flutter project.
+<p float="left">
+    <img src="./images/screenshot_1.jpg" alt="Home" width="250">
+	<img src="./images/screenshot_2.jpg" alt="map" width="250">
+	<img src="./images/demo.gif" alt="Results view" width="250">
+</p>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
